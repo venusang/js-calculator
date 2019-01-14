@@ -1,4 +1,4 @@
-# js-calculator
+# js-calculator (A Vue.js application)
 
 ## Project setup
 ```
