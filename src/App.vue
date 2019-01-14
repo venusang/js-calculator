@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="container">
-    <Calculator api="apilink"/>
+    <Calculator />
   </div>
 </template>
 
