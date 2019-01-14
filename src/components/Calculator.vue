@@ -12,11 +12,6 @@ export default {
   name: 'Calculator',
   components: {
     CalculatorKeys
-  },
-  data () {
-    return {
-      info: null
-    }
   }
 }
 </script>
